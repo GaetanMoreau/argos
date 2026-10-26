@@ -2,6 +2,7 @@
   "name": "argos",
   "version": "1.0.0",
   "description": "Inventaire et veille de sécurité locale de sites web (WordPress, Kirby, Nuxt)",
+  "license": "MIT",
   "scripts": {
     "argos": "node src/cli/index.ts",
     "test": "vitest run",

@@ -138,3 +138,7 @@ argos serve --dev      # interface avec rechargement à chaud
 | `test` | Tests, sans accès réseau |
 
 Stack : TypeScript, Node.js 24, SQLite (better-sqlite3, Drizzle ORM), Nuxt 4, Vitest.
+
+## Licence
+
+[MIT](LICENSE)
