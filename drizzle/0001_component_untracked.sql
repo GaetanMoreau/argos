@@ -1,0 +1,1 @@
+ALTER TABLE `component` ADD `untracked` integer DEFAULT false NOT NULL;
